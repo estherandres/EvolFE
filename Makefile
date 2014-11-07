@@ -1,5 +1,4 @@
-#Makefile
-#Testing
+#Makefile of the EVOLFE optimization tool
 RAE=rae
 DPW=dpw
 
